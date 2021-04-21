@@ -97,7 +97,7 @@ namespace RudyardKipling
                                                     {
                                                         if (you.CanFillTheUnforgivingMinuteWithSixtySecondsWorthOfDistanceRun)
                                                         {
-                                                                response = "Yours is the Earth and everything that’s in it,\r\nand—which is more—you’ll be a Man, my son!";
+                                                            response = "Yours is the Earth and everything that’s in it,\r\nand—which is more—you’ll be a Man, my son!";
                                                         }
                                                     }
                                                 }
