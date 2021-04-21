@@ -54,6 +54,7 @@ namespace RudyardKipling
             bool NeitherFoesNorLovingFriendsCanHurtYou = true;
             bool AllMenCountWithYouButNoneTooMuch = true;
 
+            // Read the Poem from here!
             if (you.CanKeepYourHeadWhenAllAboutYouAreLosingTheirs && BlamingItOnYou)
             {
                 if (you.CanTrustYourselfWhenAllMenDoubtYouButMakeAllowanceForTheirDoubtingToo)
